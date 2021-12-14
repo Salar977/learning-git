@@ -1,1 +1,1 @@
-console.log("Hello stranger");
+console.log("Hello stranger and guests");
